@@ -24,6 +24,7 @@
                 <sys:String>Default</sys:String>
                 <sys:String>KeyWest</sys:String>
                 <sys:String>Powder</sys:String>
+                <sys:String>NFCU</sys:String>
             </x:Array>
             <x:Array Type="{x:Type sys:String}" x:Key="GameTypes">
                 <sys:String>Beginner</sys:String>

@@ -158,6 +158,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
+    <Page Include="Resources\NFCU-THEME.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="Resources\POWDER-THEME.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -246,6 +250,9 @@
     <Resource Include="Resources\IMAGE-ITEMS\THEMES\CHOCALATE\Flag.png" />
     <Resource Include="Resources\IMAGE-ITEMS\THEMES\CHOCALATE\Pressed.png" />
     <Resource Include="Resources\IMAGE-ITEMS\THEMES\POWDER\Button.png" />
+    <Resource Include="Resources\IMAGE-ITEMS\THEMES\NFCU\Button.png" />
+    <Resource Include="Resources\IMAGE-ITEMS\THEMES\NFCU\Flag.png" />
+    <Resource Include="Resources\IMAGE-ITEMS\THEMES\NFCU\Pressed.png" />
     <Content Include="Resources\Sounds\CLICK.WAV">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
